@@ -17,7 +17,7 @@ export const SkillData = [
     name: "JavaScript",
     Image: "/js.png",
     width: 65,
-    height: 65,q
+    height: 65,
   },
   {
     name: "Tailwind Css",
